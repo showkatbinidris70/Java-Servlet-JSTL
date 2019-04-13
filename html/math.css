@@ -1,0 +1,14 @@
+*{margin: 0;padding: 0;outline: 0;}
+body{font-family: arial;font-size: 14;line-height: 10px;color: #000;}
+
+.templete{width:960px;margin: 0 auto;}
+.headersection{}
+.headersection h2{}
+.navsection{}
+.contentsection{}
+.maincontent{}
+.maincontent p{}
+.sidebar{}
+.sidebar p{}
+.footersection{}
+.footersection p{}
