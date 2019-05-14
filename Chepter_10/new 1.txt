@@ -1,0 +1,21 @@
+	Chepter 10 
+
+1. Filtering is a standard features of ....
+2. When does filter intorduces in servlet technology?
+3. Some populer uses of filter?
+4. Which servlet enhance container support of filter?
+5. What is  Filter?
+6. What can Filter do?
+7. Filter can interpt http request header Information , true or false?
+8. Filter are useful in data transformation , explain with an example
+9. Filter can preempt the serving of the particuler resources
+10.What types of resources does a server serve ? Expalain with an exam (ans: page 401)
+11.Filters are called by the application server both prior to and subsequent resource processing to the server expalin with an exam.
+12.Filter interface has --- main methods. expalin each method (page 404)
+13.Define filter definition and filter mapping . page 404 down
+14.Draw a diagram of filter life cycle?
+15.Write 3 methods of filterConfiq interface and expalin the functions.
+16.Write down filter definitions like filter name, class, param Page-407
+17.Define filter mapping with an example
+18.Define /*, /servlet/* , /jsp/*.jsp 
+19.Draw a graph releted to Incoming and outgoing request to access web Resources? page 410

@@ -1,0 +1,7 @@
+ Chapter 12
+ 
+ 6.How to redirect a jsp page after successfull login?
+ 7.What is error page and how can you build it?
+ 8.SSL ? How does it work? Secure Socket Layer(SSL)
+ 
+ 
